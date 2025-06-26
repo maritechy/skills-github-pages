@@ -1,6 +1,6 @@
 ---
 title: Welcome to my blog!
 ---
-##Testig pages
+## Testing pages
 
 This is my new page
